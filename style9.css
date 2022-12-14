@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box1, .box2{
+    border: 2px solid rgb(72, 69, 69);
+    padding: 20px;
+    background-color: rgb(192, 136, 245);
+}
+.box1{
+    margin-bottom: 30px;
+}
+.box2{
+    margin-top: 40px;
+}
+/* margin has greater will be accomodated it will not get add */

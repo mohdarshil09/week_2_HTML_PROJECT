@@ -1,0 +1,18 @@
+h2 ,img{
+    border-bottom:4px solid rgb(96, 96, 239);
+    border-top: 2px solid rgb(231, 68, 68);
+}
+div{border: 3px solid green;
+    background-color: rgb(245, 199, 113);
+}
+
+li{
+    border: 3px inset violet;
+}
+img{
+    border-radius:10px solid black ;
+}
+span{
+    background-color: rgb(17, 154, 154);
+}
+Footer

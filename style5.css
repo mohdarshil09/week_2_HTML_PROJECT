@@ -1,0 +1,21 @@
+/* specificity=> inline > id > class > element */
+
+
+div#container ul.MY_SONGS li{
+    color: brown;
+    background-color: yellowgreen;
+}
+
+/* how to calculate specificity */
+/* 0 ,1 ,1 ,3  ----> 113 */
+
+div#container ul.MY_SONGS li.important{
+    color: rgb(17, 56, 56);
+    background-color: rgb(156, 206, 244);
+}
+/* 0, 0 ,1, 0--->10 OLD*/
+/* 0,1,2,3--->123 */
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

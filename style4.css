@@ -1,0 +1,20 @@
+h1{
+    color: green;
+
+}
+.h1class{
+    color: pink;
+}
+/* classes are more sopecific than element selector*/
+
+/* #h1id{
+    color: blueviolet !important;
+    /* this makes it specific than others */
+/* } */
+
+/* id selector are more specific than class selectors and element selectors  
+but inline style attribute has more specificity than any other*/
+
+h1.heading{
+    color: blue;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Montserrat:wght@500&family=Roboto:ital,wght@1,700;1,900&display=swap');
+body{
+    font-family: lato,Thin 100 Italic;
+}
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+h1{
+    background-color: #949292cd;
+    text-align: center;
+    padding:10px ;
+}
+section.about,.another{
+    border: 2px solid rgb(62, 60, 60);
+    padding-left: 10px;
+}
+.about{
+    margin-bottom: 40px;
+}
+section h3{
+    text-transform: capitalize;
+}

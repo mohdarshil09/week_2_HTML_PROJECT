@@ -1,0 +1,28 @@
+*
+
+header{
+    background: color rgb(228, 117, 220) v; 
+}
+
+section.my-article{
+    background-color: #645564;
+}
+
+header p{
+    color: red;
+}
+li a{
+    color: blue
+    ;
+}
+section.my-article h2{
+    color: green;
+}
+
+section.my-articles > h2{
+    color: blueviolet;
+}
+
+h2+p{
+    color: #645564;
+}

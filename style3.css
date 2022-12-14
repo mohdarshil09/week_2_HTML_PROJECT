@@ -1,0 +1,15 @@
+input[type='text']{
+    color: red;
+    background-color: rgb(138, 188, 232);
+}
+input[type='password']{
+    background-color: pink; 
+}
+
+a[href *='google']{
+    color: rgb(226, 43, 186);
+}
+
+a[href^=https]{
+    color: blue;
+}

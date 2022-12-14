@@ -1,0 +1,15 @@
+h1{
+    border: 4px solid rgb(59, 9, 9);
+    /* padding-left: 4mm;
+    padding-top: 80px;
+    padding-bottom: 20px ;
+    padding-right: 40px; */ 
+/* padding: 20px 30px 40px 50px; */
+padding: 10px;
+/* margin-left: 100px;
+margin-top: 50px; */
+width: 500px;
+margin:20px auto ;
+text-align: center;
+background-color: rgb(149, 149, 241);
+}
